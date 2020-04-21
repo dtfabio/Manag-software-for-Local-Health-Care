@@ -1,7 +1,6 @@
 # Manag-software-for-Local-Health-Care-in-Cardiff
 
 <h2><b>Management software for Local Health Care in Cardiff</b></h2>
-<h3><b>Description and Functionality</b><h3>
 
 The Cardiff LHC needs a program to assign primary care physicians to patients living in the city of Cardiff.
 Specifically, the program must provide the following features:
