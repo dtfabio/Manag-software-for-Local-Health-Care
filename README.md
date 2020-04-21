@@ -1,7 +1,8 @@
 # Manag-software-for-Local-Health-Care-in-Cardiff
 
-<h3><b>Management software for Local Health Care in Cardiff</b></h3>
-<h2><b>Description and Functionality</b><h2>
+<h2><b>Management software for Local Health Care in Cardiff</b></h2>
+<h3><b>Description and Functionality</b><h3>
+<h4>
 The Cardiff LHC needs a program to assign primary care physicians to patients living in the city of Cardiff.
 Specifically, the program must provide the following features:
   
@@ -17,4 +18,4 @@ Specifically, the program must provide the following features:
   4. Viewing doctors. The feature displays the list of all doctors belonging to the Cardiff LHC.
   5. Patient record display. The function takes the patient's National Insurance Number as an input and displays the
   patient's data (surname and name) and the data of his general practitioner (surname and name).
-  
+  </h4>
